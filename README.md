@@ -1,1 +1,1 @@
-# Health-Portal
+# DBMS-project (using mysql)
