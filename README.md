@@ -93,7 +93,3 @@ HealthPortal/
 ## License
 
 ISC License
-
-## Contributors
-
-- Original repository: https://github.com/ashkush21/DBMS-project
